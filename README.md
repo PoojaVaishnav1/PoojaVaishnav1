@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojavaishnav1&label=Profile%20views&color=0e75b6&style=flat" alt="poojavaishnav1" /> </p>
 
-- 🌱 I’m currently learning **expanding my skillset — currently diving deeper into modern software development,cloud technologies,and scalable data engineering.**
+- 🌱 I’m currently **expanding my skillset — diving deeper into modern software development,cloud technologies,and scalable data engineering.**
 
 - 📫 How to reach me **pv10vaishnav@gmail.com**
 
