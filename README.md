@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja Vaishnav</h1>
-<h3 align="center">A passionate Software & Data Engineer</h3>
+<h3 align="center">A passionate Software Development Engineer</h3>
 <img align="right" alt="Coding" width="350" src="https://i.fbcd.co/products/original/53-software-developer-8-72e1acc38fb44fd7b3e8f08b9d8057f2b3b6df956df53ef14a725ec730d490f4.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poojavaishnav1&label=Profile%20views&color=0e75b6&style=flat" alt="poojavaishnav1" /> </p>
